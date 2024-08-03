@@ -1,0 +1,32 @@
+Overview
+The Superstore Dashboard Report provides insights into sales performance, profit analysis, customer segmentation, and geographic distribution. The dashboard is designed for stakeholders to make data-driven decisions.
+
+Files
+Superstore Dashboard Report.pbix: PowerBI report file with the dashboard.
+Cleaned_Sample_Superstore.xlsx: Source data file.
+Key Visuals and Metrics
+Sales Performance
+
+Total Sales by Category: Bar chart.
+Monthly Sales Trend: Line chart.
+Profit Analysis
+
+Profit by Region: Column chart.
+Profit by Sub-Category: Treemap.
+Customer Segmentation
+
+Sales Distribution by Segment: Pie chart.
+Sales vs. Profit by Customer: Scatter plot.
+Geographic Analysis
+
+Sales by State/City: Map visual.
+Operational Metrics
+
+Average Delivery Time: Gauge chart.
+Key Metrics: Card visuals for Total Sales, Total Profit, and Number of Orders.
+Usage
+Open in PowerBI Desktop.
+Explore Visuals: Navigate and hover for details.
+Interact with Filters: Use slicers for dynamic data filtering.
+Drill-Through: Right-click for detailed analysis.
+For questions, contact the dashboard creator.
